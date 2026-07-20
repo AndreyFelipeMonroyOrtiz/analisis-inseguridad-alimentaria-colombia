@@ -73,9 +73,10 @@ DIVIDE(
 
 ```
 ├── proyecto_hambre_colombia.py             # Pipeline de limpieza y cálculo de indicadores
-├── ECV_Hambre_Colombia_2022_2025.csv       # Dataset consolidado, listo para Power BI
-├── Proyecto_hambre_colombia.pbix           # Dashboard interactivo de Power BI
+├── ECV_Hambre_EN_Colombia_2022_2025.rar    # Dataset consolidado, listo para Power BI
+├── Proyecto hambre colombia.pbix           # Dashboard interactivo de Power BI
 └── README.md
+
 ```
 
 ## Autor
