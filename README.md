@@ -53,8 +53,7 @@ DIVIDE(
 ## Herramientas
 
 - **Python (Pandas)**: limpieza, consolidación multi-año, cálculo de indicadores.
-- **Power BI**: dashboard interactivo de 2 páginas (panorama nacional + mapa por departamento).
-- **SQL**: consultas de exploración sobre los datos consolidados.
+- **Power BI (Power Query & DAX)**: dashboard interactivo de 2 páginas (panorama nacional + mapa por departamento).
 
 ## Hallazgos principales
 
